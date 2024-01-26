@@ -12,8 +12,6 @@ Con el token generado ya se puede consumir los demás microservicios, a traves d
 3.	http://localhost:8080/api/product  - Api para la creaciòn de productos
 4.	http://localhost:8080/api/order - Api para la creaciòn de ordenes
 5.	http://localhost:8080/api/inventory/{sku} - Api para la validaciòn de stock de productos por sku en el inventario.
-   
-   ![image](https://github.com/jennifer-haya04/microservices/assets/93691562/1628cb85-2f75-46f7-a197-adda1c09269f)
 
 
 El proyeto cuenta con un total de 7 microservicios:

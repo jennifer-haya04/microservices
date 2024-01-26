@@ -16,7 +16,9 @@ El proyeto cuenta con un total de 7 microservicios:
   ![Captura de pantalla 2024-01-26 a la(s) 11 15 39](https://github.com/jennifer-haya04/microservices/assets/93691562/77d5ddcf-9adc-417e-89eb-badcfeb1ad9b)
   
   Todos los microservicios cuenta con una estructura similar, teniedo un model, repository, service y controller y otros segun las caracterisiticas del microservicio:
+  
   <img width="358" alt="Captura de pantalla 2024-01-26 a la(s) 11 17 42" src="https://github.com/jennifer-haya04/microservices/assets/93691562/8c1571a7-29c9-4305-924a-064147c0e0f2">
+  
 3. Autenticacion con JWT: Este microservicio cuenta con tres metodos principales en el controller que so registry, validateUser y validateToken. El metodo validateUser recibe en el request el username y el password que el usuario utilizará para la creación del JWT:
 
   ![Captura de pantalla 2024-01-26 a la(s) 11 22 52](https://github.com/jennifer-haya04/microservices/assets/93691562/7df7f320-47d3-447b-a32d-13d60441b514)
